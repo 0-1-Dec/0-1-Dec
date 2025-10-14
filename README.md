@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+네트워크 관리사 2급
+
+정보처리기능사
+
+21.04.05. ~ 22.12.04. 해군 전산병 병장 만기전역
+
+20.03. ~ 26.02. 한림대학교 재학
+
+23.03. ~ 26.02. 한림대학교 장비지원센터 근로학생
 <!--
 **0-1-Dec/0-1-Dec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
