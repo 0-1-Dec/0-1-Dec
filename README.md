@@ -10,6 +10,8 @@
 
 2023/03 ~ 2026/02 한림대학교 장비지원센터 근로학생
 
+2023/08 오픈소스SW 해커톤 대회 금상 (한림대학교 SW중심대학사업단)
+
 <!--
 **0-1-Dec/0-1-Dec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
